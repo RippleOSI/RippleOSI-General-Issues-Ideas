@@ -1,3 +1,8 @@
+#RippleOSI issues
+
+* for key programme issues that need broader access /discussion
+
+
 # ripple-ideas
 
 * open governance repo for ideas and long-term planning/strategy for Ripple Stack and Ripple Foundation
