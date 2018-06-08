@@ -1,4 +1,4 @@
-#RippleOSI issues
+# RippleOSI issues
 
 * for key programme issues that need broader access /discussion
 
