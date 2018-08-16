@@ -8,5 +8,5 @@
 
 * open governance repo for ideas and long-term planning/strategy for Ripple Stack and Ripple Foundation
 
-* create any suggestions and ideas in the [ISSUES](https://github.com/RippleOSI/ripple-general-issues-ideas/issues) tab, for discussion, prioritisation and planning
+* create any suggestions and ideas in the [ISSUES](RippleOSI/RippleOSI-General-Issues-Ideas/issues) tab, for discussion, prioritisation and planning
 
