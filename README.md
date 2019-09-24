@@ -2,6 +2,8 @@
 
 # Ripple Foundation - A History
 
+Our global mission is to support the adoption of an open platform for healthcare and to develop key OSS components to enable this change. We advocate competing on a SaaS basis, to provide the best tools to serve clinicians, so they can in turn improve the health of patients.
+
 Ripple open source initiative <br />
 https://www.digitalhealth.net/2015/09/ripple-provides-integration-support/
 
@@ -28,7 +30,6 @@ If you would like to offer some of your energy/ suggest other ideas towards prog
 
 Our organisation and projects<br />
 https://github.com/rippleOSI<br />
-https://github.com/RippleOSI/SCR-ie-Project<br />
 
 PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)<br />
 https://github.com/pulsetile/<br />
