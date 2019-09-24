@@ -17,6 +17,9 @@ https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_pl
 Campaign for 1% investment into an open platform<br />
 https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
 
+Broader open platform components required for Healthcare <br />
+https://github.com/AppertaFoundation/apperta-issues/issues/6
+
 Digital Commmons Academy <br />
 https://ripple.foundation/digital-commons-academy/
 
