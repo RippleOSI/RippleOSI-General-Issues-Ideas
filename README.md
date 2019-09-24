@@ -15,6 +15,15 @@ https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_pl
 Campaign for 1% investment into an open platform<br />
 https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
 
+# Funding model
+
+Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support for all issues/pull requests. We offer consultancy services to support organisations on their open platform journey.
+
+Our latest thinking on the best model to support our open platform mission in healthcare may best be understood by reading this article. https://opensource.com/business/16/4/refactoring-open-source-business-models
+
+If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation )
+
+
 # Ripple Foundation - RippleOSI links
 
 Our organisation and projects<br />
@@ -24,8 +33,6 @@ https://github.com/RippleOSI/SCR-ie-Project<br />
 PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)<br />
 https://github.com/pulsetile/<br />
 https://github.com/RippleOSI/ReactAdmin-NodeRed-Redis-v1<br />
-
-
 
 Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based)<br />
 https://github.com/QEWD-Courier<br />
