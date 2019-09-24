@@ -17,6 +17,9 @@ https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_pl
 Campaign for 1% investment into an open platform<br />
 https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
 
+Digital Commmons Academy <br />
+https://ripple.foundation/digital-commons-academy/
+
 # Funding model
 
 Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support for all issues/pull requests. We offer consultancy services to support organisations on their open platform journey.
