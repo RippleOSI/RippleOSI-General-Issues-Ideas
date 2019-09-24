@@ -14,8 +14,10 @@ Definition of an open platform <br />
 https://apperta.org/assets/Apperta_Defining_an_Open_Platform_April.pdf
 
 openEHR white paper <br />
-https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_platform.pdf
+https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_platform.pdf <br />
 
+Short openEHR explainers and healthcare background <br />
+https://www.youtube.com/watch?v=BUwGNXppdbw&list=PLNxHSK29ViKI1foDYNUbToJuFdhwKzx4U
 
 Campaign for 1% investment into an open platform<br />
 https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
@@ -48,6 +50,11 @@ https://github.com/RippleOSI/RFShowcase-NodeRed-Redis-v1
 
 EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)- to address & improve Scalability & Maintainability<br />
 https://github.com/ethercis
+
+# Examples of our supported projects combined and in action <br />
+Showcase https://youtu.be/wZZKO6ae3h4 <br />
+Person Held Record - https://youtu.be/t32TvVflJHk <br />
+End of life care app - https://youtu.be/xCyl2KA7tgs <br />
 
 
 # The challenge of open source work - what's the right funding model?
