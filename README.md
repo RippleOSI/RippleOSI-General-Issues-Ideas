@@ -2,8 +2,18 @@
 
 # Ripple Foundation - A History
 
+Ripple open source initiative <br />
+https://www.digitalhealth.net/2015/09/ripple-provides-integration-support/
 
-* for key programme issues that need broader access /discussion
+Definition of an open platform <br />
+https://apperta.org/assets/Apperta_Defining_an_Open_Platform_April.pdf
+
+openEHR white paper <br />
+https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_platform.pdf
+
+
+Campaign for 1% investment into an open platform
+https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
 
 # Ripple Foundation - RippleOSI links
 
@@ -21,6 +31,9 @@ Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based)<br />
 https://github.com/QEWD-Courier<br />
 https://github.com/robtweed/qewd-hit-platform/<br />
 
+NodeRed exploration <br />
+https://github.com/RippleOSI/RFShowcase-NodeRed-Redis-v1
+
 EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)<br />
 https://github.com/ethercis
 
@@ -29,5 +42,5 @@ https://github.com/ethercis
 
 * open governance repo for ideas and long-term planning/strategy for Ripple Stack and Ripple Foundation
 
-* create any suggestions and ideas in the [ISSUES](https://github.com/RippleOSI/RippleOSI-General-Issues-Ideas/issues) tab, for discussion, prioritisation and planning
+* create any suggestions and ideas in the [ISSUES](https://github.com/RippleOSI/RippleOSI-General-Issues-Ideas/issues) tab, for discussion, prioritisation and planning for key programme issues that need broader access /discussion
 
