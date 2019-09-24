@@ -7,24 +7,21 @@
 
 # Ripple Foundation - RippleOSI links
 
-Our organisation and projects
-https://github.com/rippleOSI
-https://github.com/RippleOSI/SCR-ie-Project
+Our organisation and projects<br />
+https://github.com/rippleOSI<br />
+https://github.com/RippleOSI/SCR-ie-Project<br />
 
-PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)
-
-https://github.com/pulsetile/
-https://github.com/RippleOSI/ReactAdmin-NodeRed-Redis-v1
-
+PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)<br />
+https://github.com/pulsetile/<br />
+https://github.com/RippleOSI/ReactAdmin-NodeRed-Redis-v1<br />
 
 
-Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based)
 
+Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based)<br />
+https://github.com/QEWD-Courier<br />
+https://github.com/robtweed/qewd-hit-platform/<br />
 
-https://github.com/QEWD-Courier
-https://github.com/robtweed/qewd-hit-platform/
-
-EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)
+EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)<br />
 https://github.com/ethercis
 
 
