@@ -12,7 +12,7 @@ openEHR white paper <br />
 https://www.openehr.org/resources/white_paper_docs/openEHR_vendor_independent_platform.pdf
 
 
-Campaign for 1% investment into an open platform
+Campaign for 1% investment into an open platform<br />
 https://ripple.foundation/2017/01/open-digital-platform-challenge-fund/
 
 # Ripple Foundation - RippleOSI links
