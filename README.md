@@ -43,7 +43,7 @@ https://github.com/RippleOSI/ReactAdmin-NodeRed-Redis-v1<br />
 
 Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based) - to address & improve Interoperability <br />
 https://github.com/QEWD-Courier<br />
-https://github.com/robtweed/qewd-hit-platform/<br />
+https://github.com/QEWD-Courier/qewd-hit-platform<br />
 
 NodeRed exploration <br />
 https://github.com/RippleOSI/RFShowcase-NodeRed-Redis-v1
