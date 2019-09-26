@@ -32,20 +32,18 @@ https://ripple.foundation/digital-commons-academy/
 
 # Ripple Foundation - Our technical focus & related links
 
-Our organisation and related projects<br />
+Our organisation and related projects, R&D experiments etc<br />
 https://github.com/rippleOSI<br />
 
 We have focussed on 3 key areas and supported key projects as part of a broader ecosystem push. 
 
 PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)- to address & improve Usability <br /> 
 https://github.com/pulsetile/<br />
-https://github.com/RippleOSI/ReactAdmin-NodeRed-Redis-v1<br />
 
 Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based) - to address & improve Interoperability <br />
 https://github.com/QEWD-Courier<br />
-https://github.com/QEWD-Courier/qewd-hit-platform<br />
 
-NodeRed exploration <br />
+NodeRed exploration - related exploration of NodeRed for integration/interop potential<br/>
 https://github.com/RippleOSI/RFShowcase-NodeRed-Redis-v1
 
 EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)- to address & improve Scalability & Maintainability<br />
