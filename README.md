@@ -59,9 +59,11 @@ End of life care app - https://youtu.be/xCyl2KA7tgs <br />
 
 # The challenge of open source work - what's the right funding model?
 
-Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support for all issues/pull requests. We offer consultancy services to support organisations on their open platform journey.
+Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support. We offer consultancy services to support organisations on their open platform journey.
 
 Our latest thinking on the best model to support our open platform mission in healthcare may best be understood by reading this article. https://opensource.com/business/16/4/refactoring-open-source-business-models
+
+We acknowledge that ["open source has a working for free problem"](https://blog.tidelift.com/open-source-has-a-working-for-free-problem) with more takers > givers, we sense that initiatives such as [Github Sponsors](https://github.com/sponsors), [TideLift](tidelift.com) and [OSS Capital](https://oss.capital) are some of the range of solutions needed.
 
 If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation )
 
