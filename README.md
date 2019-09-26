@@ -1,6 +1,6 @@
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg?style=flat-square)](https://gitter.im/Ripple-Foundation/General)
 
-# Ripple Foundation - A History
+# Ripple Foundation - Some background
 
 We started life as RippleOSI, the Ripple Open Source Initiative in 2015 (out of lessons learned from top to bottom within the NHS and HealthIT) with funding from the NHS in England.
 As the mission progressed we formed a non profit (community interest company) Ripple Foundation in 2016 towards a commons in healthIT.
@@ -63,7 +63,7 @@ Our latest thinking on the best model to support our open platform mission in he
 
 We acknowledge that ["open source has a working for free problem"](https://blog.tidelift.com/open-source-has-a-working-for-free-problem) with more takers > givers, we sense that initiatives such as [Github Sponsors](https://github.com/sponsors), [TideLift](tidelift.com) and [OSS Capital](https://oss.capital) are some of the range of solutions needed.
 
-If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation )
+If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation 
 
 
 
