@@ -37,16 +37,16 @@ https://github.com/rippleOSI<br />
 
 We have focussed on 3 key areas and supported key projects as part of a broader ecosystem push. 
 
-Usability:  PulseTile - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)- to address & improve Usability <br /> 
+* Usability:  **PulseTile** - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)- to address & improve Usability <br /> 
 https://github.com/pulsetile/<br />
 
-Interoperability: Qewd-Courier - our Middleware/Integration Platform (QewdJS/NodeJS based) - to address & improve Interoperability <br />
+* Interoperability: **Qewd-Courier** - our Middleware/Integration Platform (QewdJS/NodeJS based) - to address & improve Interoperability <br />
 https://github.com/QEWD-Courier<br />
 
-   NodeRed exploration - related exploration of NodeRed for integration/interop potential<br/>
+   * NodeRed exploration - related exploration of NodeRed for integration/interop potential<br/>
    https://github.com/RippleOSI/RFShowcase-NodeRed-Redis-v1
 
-Scalability: EtherCIS - our data repository (Java/PostGreSQL based- compliant with openEHR standard)- to address & improve Scalability & Maintainability<br />
+* Scalability: **EtherCIS** - our data repository (Java/PostGreSQL based- compliant with openEHR standard)- to address & improve Scalability & Maintainability<br />
 https://github.com/ethercis
 
 # Examples of our supported projects combined and in action <br />
