@@ -2,8 +2,8 @@
 
 # Ripple Foundation - A History
 
-We started life as RippleOSI, the Ripple Open Source Initiative in 2015, out of lessons learned from top to bottom within the NHS, with funding from the NHS in England.
-As the mission progressed we formed a non profit (community interest company) Ripple Foundation in 2016.
+We started life as RippleOSI, the Ripple Open Source Initiative in 2015 (out of lessons learned from top to bottom within the NHS and HealthIT) with funding from the NHS in England.
+As the mission progressed we formed a non profit (community interest company) Ripple Foundation in 2016 towards a commons in healthIT.
 
 Our global mission is to support the adoption of an open platform for healthcare and to develop key open source software components to enable this change. We advocate a shift towards a software as a service model, aimed at providing the best tools to serve clinicians, so they can in turn improve the health of patients.
 
