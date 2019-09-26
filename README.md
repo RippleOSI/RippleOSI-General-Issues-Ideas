@@ -50,13 +50,13 @@ https://github.com/QEWD-Courier<br />
 * Scalability: **EtherCIS** - our data repository (Java/PostGreSQL based- compliant with openEHR standard)- to address & improve Scalability & Maintainability<br />
 https://github.com/ethercis
 
-# Examples of our supported projects combined and in action <br />
+# Examples of our supported projects in action <br />
 Showcase https://youtu.be/wZZKO6ae3h4 <br />
 Person Held Record - https://youtu.be/t32TvVflJHk <br />
 End of life care app - https://youtu.be/xCyl2KA7tgs <br />
 
 
-# The challenge of open source work - what's the right funding model?
+# The challenge of open source - what's the right model?
 
 Ripple Foundation is committed to offering free and open software, with quality, free and open documentation, but unfortunately is unable to offer free support. We offer consultancy services to support organisations on their open platform journey.
 
@@ -65,7 +65,6 @@ Our latest thinking on the best model to support our open platform mission in he
 We acknowledge that ["open source has a working for free problem"](https://blog.tidelift.com/open-source-has-a-working-for-free-problem) with more takers > givers, we sense that initiatives such as [Github Sponsors](https://github.com/sponsors), [TideLift](tidelift.com) and [OSS Capital](https://oss.capital) are some of the range of solutions needed.
 
 If you would like to offer some of your energy/ suggest other ideas towards progressing an open platform in healthcare, please contact us at info@ripple.foundation 
-
 
 
 
