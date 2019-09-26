@@ -51,9 +51,9 @@ https://github.com/QEWD-Courier<br />
 https://github.com/ethercis
 
 # Examples of our supported projects in action <br />
-Showcase https://youtu.be/wZZKO6ae3h4 <br />
+Showcase Stack https://youtu.be/wZZKO6ae3h4 <br />
 Person Held Record - https://youtu.be/t32TvVflJHk <br />
-End of life care app - https://youtu.be/xCyl2KA7tgs <br />
+Care Planning - End of Life care - https://youtu.be/xCyl2KA7tgs <br />
 
 
 # The challenge of open source - what's the right model?
