@@ -41,7 +41,7 @@ We have focussed on 3 key areas and supported key projects as part of a broader 
 * Usability:  **PulseTile** - our UX-UI Framework (ReactAdmin/ReactJS/AngularJS)- to address & improve Usability <br /> 
 https://github.com/pulsetile/<br />
 
-* Interoperability: **Qewd-Courier** - our Middleware/Integration Platform (QewdJS/NodeJS based) - to address & improve Interoperability <br />
+* Interoperability: **Qewd-Courier** - our Middleware/Integration Platform ([QewdJS](http://qewdjs.com)/NodeJS based) - to address & improve Interoperability <br />
 https://github.com/QEWD-Courier<br />
 
    * NodeRed exploration - related exploration of NodeRed for integration/interop potential<br/>
